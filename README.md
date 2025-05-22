@@ -1,3 +1,5 @@
+Made with Magic Leap (old webdev project, news site around Magic Leap tech releases)
+
 # gatsby-starter-default
 The default Gatsby starter.
 
